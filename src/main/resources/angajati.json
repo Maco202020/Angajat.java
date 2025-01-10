@@ -1,0 +1,36 @@
+[ {
+  "numele" : "Ionut",
+  "postul" : "Sef",
+  "data_angajarii" : [ 2022, 4, 1 ],
+  "salariul" : 15000.0
+}, {
+  "numele" : "Mark",
+  "postul" : "Contabil",
+  "data_angajarii" : [ 2017, 12, 1 ],
+  "salariul" : 3570.0
+}, {
+  "numele" : "Vasile",
+  "postul" : "Programator",
+  "data_angajarii" : [ 2019, 12, 1 ],
+  "salariul" : 9040.0
+}, {
+  "numele" : "Merry",
+  "postul" : "Director",
+  "data_angajarii" : [ 2019, 5, 1 ],
+  "salariul" : 8089.0
+}, {
+  "numele" : "ion",
+  "postul" : "Programator",
+  "data_angajarii" : [ 2020, 3, 1 ],
+  "salariul" : 1205.0
+}, {
+  "numele" : "Ionut",
+  "postul" : "CO",
+  "data_angajarii" : [ 2020, 4, 8 ],
+  "salariul" : 1034.0
+}, {
+  "numele" : "Ionel",
+  "postul" : "Sef pe Curatenie",
+  "data_angajarii" : [ 2021, 4, 1 ],
+  "salariul" : 1210.0
+} ]
